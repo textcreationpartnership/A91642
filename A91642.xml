@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance to the Presbyterians, concerning the government established in the Church of England. And a vindication of Episcopacy from its first original, and divine institution. Published by order.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91642</idno><idno type="EEBO-CITATION">99866987</idno>
+  <idno type="VID">168963</idno>
+  <idno type="EEBO-PROQUEST">2240935482</idno>
+  
+            <idno type="STC">Wing R1031</idno>
+            <idno type="STC">Thomason E1044_9</idno>
+            <idno type="STC">ESTC R207973</idno>
+            <idno type="PROQUEST">99866987</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866987e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168963)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1044[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance to the Presbyterians, concerning the government established in the Church of England. And a vindication of Episcopacy from its first original, and divine institution. Published by order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 17.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="topical_term">Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168963:1"/>
+            <p>A REMONSTRANCE TO THE Presbyterians, CONCERNING The Government Established in the Church of ENGLAND.</p>
+            <p>AND A Vindication of EPISCOPACY <hi>FROM</hi> Its first Original, and Divine Institution.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Published by Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Printed for G. HORTON, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168963:2"/>
+            <pb n="1" facs="tcp:168963:2"/>
+            <head>An Answer to the Solemn League and Covenant.</head>
+            <p>THat the Name of Episcopacie, even as it signi<g ref="char:EOLhyphen"/>fieth a degree of Eminencie in the Church, is a sacred and venerable Title; first in holy Scri<g ref="char:EOLhyphen"/>pture ascribed to our blessed Redeemer, who as he is <hi>Dominus Dominantium,</hi> Lord of Lords, so also, <hi>Episcopus Episcoporum</hi> Bishop of Bishops, the Shep<g ref="char:EOLhyphen"/>herd and Bishop of our soules: next to the Apostles, whose Office in the Church is styled by the Holy Ghost <hi>Episcope;</hi> a Bishoprick, <hi>Let another take his Bishoprick;</hi> though it be tran<g ref="char:EOLhyphen"/>slated, <hi>Let another take his Office,</hi> yet the Original signifies not an Office at large, but an Episcopal Function; that Of<g ref="char:EOLhyphen"/>fice which <hi>Judas</hi> lost, and <hi>Mathias</hi> was elected into; which was the Office and Dignity of an Apostle. Lastly, to those whom the Apostles set over the Churches, as namely, to <hi>Timothy</hi> and <hi>Titas,</hi> who in the subscription of the Apostles Letters, D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vinely inspired, are styled Bishops in the restrai<g ref="char:EOLhyphen"/>ned sense of the word, 2 <hi>Tim.</hi> 4. written from <hi>Rome</hi> to <hi>Timo<g ref="char:EOLhyphen"/>theus,</hi> the first Bishop elected of the Church of <hi>Ephesus;</hi> and to <hi>Titus</hi> the first elect Bishop of the Church of the <hi>Cretians.</hi>
+            </p>
+            <p>It is confessed by <hi>Moline is,</hi> and other Learned Patrons of Presbyterial Government themselves, that Episaopacie is a Plant either set in the Church by the Apostles themselves, or their immediate Successors in the first and best ages of the Church; and is it agreeable to Piety to swear the extirpari<g ref="char:EOLhyphen"/>on of such a Plant?</p>
+            <pb n="2" facs="tcp:168963:3"/>
+            <p>It cannot be denyed, that when the Church most flouri<g ref="char:EOLhyphen"/>shed, and was of fat larger extent then now it is, over he face of the Christian World; there was no other Govern<g ref="char:EOLhyphen"/>ment then Episcopacy regulated by Divine Precepts, and EcclesI stical Canons: and sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll we swear to extirpate that Government under which the Church most thrived &amp; flou<g ref="char:EOLhyphen"/>rished? Shall we swear against our Prayers, <hi>viz.</hi> for the rooting out of that, upon which we are enjoyned to pray God <hi>to pour down the dew of his blessing?</hi> Surely the dew of Heaven burns not the root of any Plant upon earth, but wa<g ref="char:EOLhyphen"/>ters it and makes it grow,</p>
+            <p>They were Bishops who had the chiefest hand first in the Plantation of Christian Religion in the days of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ucius</hi> King of <hi>Britain;</hi> and after in the restitution in the days of <hi>Ethel<g ref="char:EOLhyphen"/>dred</hi> King of <hi>Kent;</hi> and in the Reformation of it in the Reign of <hi>Edward</hi> the sixth, and Queen <hi>Elizabeth:</hi> and is it a Reli<g ref="char:EOLhyphen"/>gious act to eradicate that Government and Power which both planted and pruned Religion it self?</p>
+            <p>Christ dyed not <hi>intestate;</hi> he made his last Will &amp; Testa<g ref="char:EOLhyphen"/>ment, and by it bequeathed many Legacies to his Church; and among them not onely Catholike Doctrine, but Disci<g ref="char:EOLhyphen"/>pline also. This Discipline, if it be not Episcopal Govern<g ref="char:EOLhyphen"/>ment moderated by Evangelical and Apostolical Rules, the whole Church is guilty of the loss of a Sacred and precious Jewel; for certain it is out of Records of all Ages of the Church, that no other was ever retained, or can be found save this, before the Religious Reformer, and Magistrates of <hi>Geneva</hi> having banished their Popish Bishops, were after a sort necessitated to draw a new Plat form of Ecclesiasticall Discipline by Lay-Elders.</p>
+            <p>It cannot be conceived, but that Christ left a Pattern of Government to his Church, to continue till the end of the World: and doubtless, his Apostles with whom he con<g ref="char:EOLhyphen"/>versed
+<pb n="3" facs="tcp:168963:3"/>forty days after his Resurrection, speaking of those things which appertain to the Kingdom of God, <hi>Act.</hi> 3.1. de<g ref="char:EOLhyphen"/>livered that to the Church which they received from their Master. What Government or Discipline was that? There can be conceived but three forms of Government; Episco<g ref="char:EOLhyphen"/>pal, most conformable to Monarchy; Presbyterial, to Ari<g ref="char:EOLhyphen"/>stocracy; and ndependent, as they tearm it, to Democracy. Presbyterial or Independent it could not be, for Presbyte<g ref="char:EOLhyphen"/>rial is no elder then the Reformation in <hi>Geneva,</hi> and the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>dependent no elder then <hi>New-England;</hi> whereas Episcopal Government hath been time out of mind, not in one but in all Churches.</p>
+            <p>And sith it was not first constituted by any Sanction of a General Council, it follows necessarily, according to St. <hi>Au<g ref="char:EOLhyphen"/>gustins</hi> observation, that it must needs be an Apostolical In<g ref="char:EOLhyphen"/>stitution. For what not one Church, but all Churches; not in one Age, but all Ages, hath uniformly observed and pra<g ref="char:EOLhyphen"/>ctised, and no man can define who, after the Apostles, were the beginners of it; must needs be supposed to be done by Order or Tradition from them.</p>
+            <p>This Form of Government was generally embr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced by the best of Christians till <hi>Ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus</hi> who stood for a Bishoprick and missed it, out of discontent broached that new <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>octrine wherewith the heads of ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Schisma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks are so much in<g ref="char:EOLhyphen"/>toxicated, <hi>viz.</hi> That <hi>there ought to be no di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inction in the Church between a Bishop and a Presbyter.</hi> But our z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alous Reformers if they think themselves not too good to be ad<g ref="char:EOLhyphen"/>vised by the Great, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounsellor ought to take heed how they rashly and unadvis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly pluck, up the Tares, as they esteem them of holy Canons, &amp; Ecclesiastical Laws, lest they pluck up by the roots the good Wheat of many profitable and wholesome Laws of the Nation, and Acts of Parliament: For to abolish Episcopacy, is the way: to bring confusion, as well in Secular as Ecclesiastical Courts.</p>
+            <pb n="4" facs="tcp:168963:4"/>
+            <p>But if the Authority of Lords and Commons could soon cure these Sores in precedent Acts of Parliament, yet how will they make up the breaches in the Consciences of all those, who in the late Protestation, and the Solemn League and Covenant, have taken an O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th to maintain the priviled<g ref="char:EOLhyphen"/>ges of the Members of Parliament, and the Liberties of the Subject? The most authentical evidence whereof, are <hi>Mag<g ref="char:EOLhyphen"/>na Charta,</hi> and the Petition of Right; in both which the Rights of the Church, and priviledge of Episcopal Sees are set down in the Fore-front in Capital Letters.</p>
+            <p>To strain this string a little higher, the power of granting <hi>Congedeliers,</hi> together with the investiture of Archbishops, Bishops, and Collation of Deanries and Prebends, with a set<g ref="char:EOLhyphen"/>led Revenue from the First-fruits and Tenths there, is one of the fairest flowers in the Kings Crown; and to rob the m<g ref="char:EOLhyphen"/>perial Diadem of it (confidering the King is a person most Sacred) is Sacriledge in a high degree; and not Sacriledge onely, but Perjury also in all those who attempt it. For all Graduates in the University, and men of Ranck and Quality in the Nation, who are admitted to any place of eminent Authority or Trust, take the O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of Supremacy, whereby they are bound to defend and propugne all Pre-eminencies, Authorities, and Prerogatives annexed to the Imperiall Crown; whereof this is known to be one inherent in the King, as He is Supreme Head of the Church within his Realms, and Defender of the Faith.</p>
+            <p>Yet for all this, admit that Reason of State should inforce the extirpation of Episcopacy thus rooted, both in the Roy<g ref="char:EOLhyphen"/>all Prerogative and Priviledge of the Subject, and in the Laws of the Land; it is a golden Maxim of Law, <hi>Possumus quod jure possumus,</hi> we can do no more then lawfully we may. If Episcopal Government must be overthrown, it must be done in a <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ful way: not by popular Tumults, but by a B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll passed in Parliament, and that to be tendered to his Ma<g ref="char:EOLhyphen"/>jesty
+<pb n="5" facs="tcp:168963:4"/>for his Royal Assent. And how such a Bill could be pressed upon his late Majesty, who at his Coronation took an Oath to preserve Bishops in their Legal Rights, I must learn from our great Masters of the Law. For by the Gospel, all inducements to sin are sin; and solicitations to Perjury are tainted with that guilt: neither is there any power up<g ref="char:EOLhyphen"/>on earth to dispence with the breach of Oaths lawfully ta<g ref="char:EOLhyphen"/>ken. For, if we desire that this Church of <hi>England</hi> should flourish like the Garden of <hi>Eden,</hi> we must have an eye to the Nurseries of good Learning and Religion, the two Uni<g ref="char:EOLhyphen"/>versities; which will never be furnished with choice Plants, if there be no Preferments and Incouragements to the Stu<g ref="char:EOLhyphen"/>dents there, who for the far greater part bend their Studies to the Queen of all Professsions, Divinity; which will make but a slow progress, if Bishopricks, Deanries, Archdeacon<g ref="char:EOLhyphen"/>ries and Prebendaries, and all other Ecclesiastical Dignities, (which, like silver Spurs, prick on the industry of those who consecrate their labours and endeavours to the glorifying of God, in imploying their talent in the Ministry of the Go<g ref="char:EOLhyphen"/>spel, be taken away.</p>
+            <p>And whereas many of the Covenanters will object and say, That Episcopal Government hath proved inconveni<g ref="char:EOLhyphen"/>ent and prejudicial to the State; and therefore the Hierar<g ref="char:EOLhyphen"/>chy is to be cut down, root and branch.</p>
+            <p>To this we answer, as <hi>Cicero</hi> doth of <hi>Cato</hi> his exceptions against <hi>Murena;</hi> Set aside the Authority of the Objectors, the Objection hath very little in it. For it is liable to many and just Exceptions, and admitteth of divers Replyes.</p>
+            <p>First it is said, That Episcopal Government is inconveni<g ref="char:EOLhyphen"/>ent and mischievous, and prejudicial to the State: but it was never proved to be so.</p>
+            <p>Secondly, Admit some good proof could be brought of it; yet if Episcopacie be of Divine Institution, as hath been
+<pb n="6" facs="tcp:168963:5"/>proved, it must not be therefore rooted out; but the Luxu<g ref="char:EOLhyphen"/>rious stems of it pruned and those additions to the first insti<g ref="char:EOLhyphen"/>tution from whence these inconveniences have grown ought to be retrenched.</p>
+            <p>Thirdly, If Episcopacy hath proved inconvenient, and mischievous in this Age, which was most beneficial and pro<g ref="char:EOLhyphen"/>fitable in all former Ages, the fault may be in the Maladies of the Patient, not in the method of Cure. This Age is to be Reformed not Episcopacy Abrogated; that the Liberty and looseness of these Times will not brook the Sacred Bands of Episcopal Discipline is rather a proof of the integrity thereof, then a true Argument of any malignity in it to the State: without which, no effectual means or course can be taken, either for the suppressing Schismaticks, or the conti<g ref="char:EOLhyphen"/>nuation of a lawful and undenyable succession in the Mini<g ref="char:EOLhyphen"/>stry.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
